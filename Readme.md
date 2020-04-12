@@ -50,3 +50,5 @@ git clone SSH-адрес_вашего_форка
 
 [travis-image]: https://travis-ci.org/htmlacademy-ecmascript/125753-guess-melody.svg?branch=master
 [travis-url]: https://travis-ci.org/htmlacademy-ecmascript/125753-guess-melody
+
+Изменения в файл ридми.
